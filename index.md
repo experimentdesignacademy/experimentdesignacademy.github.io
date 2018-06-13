@@ -36,7 +36,7 @@ Enter the project folder and add an index.html file:
 ```
 cd username.github.io
 
-echo "Hello World" > index.html
+echo "#Hello World" > index.md
 ```
 4. Push it
 Add, commit, and push your changes:
@@ -61,19 +61,14 @@ Fire up a browser and go to **https://username.github.io**
 5. Pick a template
 6. Click Select theme
 
-## Go to 
-
+## Go to
 
 1. Got to your repository on [Github](https://github.com/experimentdesignacademy/experimentdesignacademy.github.io/blob/master/index.html)
 2. Click the pencil icon to Edit this file
 
 ## Setup Google Analytics
-accounts@sillybodkins.co
-sillybodkins.co UA-68955071-1
-caddie.io: UA-68955071-2
 
 ## Setup Google AdWords
-https://adwords.google.com/
 
 ## Out of Scope
 Creating custom domain names
