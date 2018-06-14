@@ -3,6 +3,7 @@
 ## General
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Resources to learn Git](https://try.github.io/)
 
 ## Software
 ### OS X
@@ -26,8 +27,6 @@
 * [User Experience Design](http://sketchmaster.com/#course-2) intermediate features (wireframes, UI mockups, prototype)
 ### Flinto
 * [Tutorial Videos](https://www.flinto.com/learn/tutorial_videos)
-### Git
-* [Resources to learn Git](https://try.github.io/)
 
 ## Kits
 ### Sketch
