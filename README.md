@@ -30,6 +30,8 @@
 ### Example
 * [Creating a landing page on GitHub](https://github.com/experimentdesignacademy/experimentdesignacademy.github.io/blob/master/landing.md)
 
+### [Analyzing Traffic](https://github.com/experimentdesignacademy/experimentdesignacademy.github.io/blob/master/analytics.md)
+
 ## App Prototypes
 
 ## Software
@@ -37,16 +39,6 @@
 * [Sketch](https://www.sketchapp.com/)
 * [Flinto](https://www.flinto.com/)
 * [Noun Project](https://thenounproject.com/for-mac/)
-
-## Color Pallet
-* [Coolors](https://coolors.co/ff6200-ffbfa6-ffdccd-ffffff-ff8e5e)
-
-## Typography
-* [Google Fonts](https://fonts.google.com/)
-
-## Images
-* [Unsplash](https://unsplash.com/)
-* [Pixabay](https://pixabay.com/)
 
 ## Icons
 * [Icon Strike](https://www.flinto.com/strike) (iOS)
@@ -59,20 +51,31 @@
 ### Flinto
 * [Tutorial Videos](https://www.flinto.com/learn/tutorial_videos)
 
-## Kits
-### Sketch
+## Design Resources
+### Color Pallet
+* [Coolors](https://coolors.co/ff6200-ffbfa6-ffdccd-ffffff-ff8e5e)
+
+### Typography
+* [Google Fonts](https://fonts.google.com/)
+
+### Images
+* [Unsplash](https://unsplash.com/)
+* [Pixabay](https://pixabay.com/)
+
+### Kits
+#### Sketch
 * [Elements](https://sketchapp.com/elements)
 * [iOS Design Kit](https://iosdesignkit.io/)
 * [Material Design Kit](https://materialdesignkit.com/)
 * [Bootsketch](https://www.bootsketch.com/)
 * [Bootstrap 3 Vector UI Kit](http://bootstrapuikit.com/) with Glyphicons
 
-### UI
+#### UI
 * [Starter UI Kit](https://www.playtemplate.com/products/starter-kit)
 * [UX Whiteboards](http://www.uxwhiteboards.com/)
 * [iPhone Starter Pack](https://www.uistencils.com/products/the-ui-stencils-starter-pack?variant=690677433)
 * [Andriod Starter Pack](https://www.uistencils.com/products/the-ui-stencils-starter-pack?variant=1600363588)
 
-## Prototyping
+### Prototyping
 * [Rapid Prototyping](http://www.designkit.org/methods/26)
 * [Paper Prototyping](https://www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/)
