@@ -10,7 +10,7 @@
 * Billing email: travis@movestheneedle.com
 
 ## Create web site
-* (Github Pages)[https://pages.github.com/]
+* [Github Pages](https://pages.github.com/)
 
 1. Create a repository
 Head over to [GitHub](https://github.com/) and [create a new repository](https://github.com/new) named *username*.github.io, where *username* is your username (or organization name) on GitHub.
@@ -26,7 +26,8 @@ git clone https://github.com/username/username.github.io
 
 ### Example
 * Create local directory: currencyconverters.github.io
-* ```
+
+```
 git clone
 https://github.com/currencyconverters/currencyconverters.github.io.git
 ```

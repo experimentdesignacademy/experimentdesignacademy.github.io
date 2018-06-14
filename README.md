@@ -27,6 +27,9 @@
 * Unique Value Proposition
 * Call to Action
 
+### Example
+* [Creating a landing page on GitHub](https://github.com/experimentdesignacademy/experimentdesignacademy.github.io/blob/master/landing.md)
+
 ## App Prototypes
 
 ## Software
