@@ -31,6 +31,7 @@
 * [Creating a landing page on GitHub](https://github.com/experimentdesignacademy/experimentdesignacademy.github.io/blob/master/landing.md)
 
 ### [Analyzing Traffic](https://github.com/experimentdesignacademy/experimentdesignacademy.github.io/blob/master/analytics.md)
+### [Put your ad on Google](https://github.com/experimentdesignacademy/experimentdesignacademy.github.io/blob/master/adwords.md)
 
 ## App Prototypes
 

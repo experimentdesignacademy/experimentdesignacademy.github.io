@@ -2,12 +2,15 @@
 * [Google Analytics](https://analytics.google.com/)
 
 1. Sign up for Google Analytics
+
 All we need is some basic info about what site you'd like to monitor.
 
 2. Add tracking code
+
 You'll get a tracking code to paste onto your pages so Google knows when your site is visited.
 
 3. Learn about your audience
+
 In a few hours you'll be able to start seeing data about your site.
 
 ## New Account
