@@ -1,9 +1,33 @@
 # Experiment Design Academy
 
-## General
+## Basic Skills
+### Markdown
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### Git
 * [Resources to learn Git](https://try.github.io/)
+
+### HTML & CSS
+* [Codecademy](https://www.codecademy.com/)
+* [Treehouse](https://teamtreehouse.com/)
+* [Codeschool](https://www.pluralsight.com/codeschool)
+
+## Landing Pages
+* [What is a Landing Page?](https://unbounce.com/landing-page-articles/what-is-a-landing-page/)
+* [Landing Page Best Practices](https://unbounce.com/landing-page-articles/landing-page-best-practices/)
+
+### Tools
+* [GitHub](https://github.com/)
+* [Squarespace](https://www.squarespace.com/)
+* [Instapage](https://instapage.com/)
+
+### Content
+* Headline
+* Unique Value Proposition
+* Call to Action
+
+## App Prototypes
 
 ## Software
 ### OS X
@@ -14,8 +38,12 @@
 ## Color Pallet
 * [Coolors](https://coolors.co/ff6200-ffbfa6-ffdccd-ffffff-ff8e5e)
 
-## Typeography
+## Typography
 * [Google Fonts](https://fonts.google.com/)
+
+## Images
+* [Unsplash](https://unsplash.com/)
+* [Pixabay](https://pixabay.com/)
 
 ## Icons
 * [Icon Strike](https://www.flinto.com/strike) (iOS)
