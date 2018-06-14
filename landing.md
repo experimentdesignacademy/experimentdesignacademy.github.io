@@ -28,8 +28,7 @@ git clone https://github.com/username/username.github.io
 * Create local directory: currencyconverters.github.io
 
 ```
-git clone
-https://github.com/currencyconverters/currencyconverters.github.io.git
+git clone https://github.com/currencyconverters/currencyconverters.github.io.git
 ```
 
 3. Hello World
@@ -56,7 +55,7 @@ git push -u origin master
 Fire up a browser and go to **https://username.github.io**
 
 ### Example
-* [Currency Converters](https://currencyconverters.github.io/)
+* [https://currencyconverters.github.io/](https://currencyconverters.github.io/)
 
 ## [Adding a theme to your GitHub Pages site](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/)
 
