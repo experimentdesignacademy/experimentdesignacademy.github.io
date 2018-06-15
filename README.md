@@ -38,6 +38,7 @@
 ## Software
 ### OS X
 * [Sketch](https://www.sketchapp.com/)
+* [Sketch Mirror](https://itunes.apple.com/us/app/sketch-mirror/id677296955?mt=8)
 * [Flinto](https://www.flinto.com/)
 * [Noun Project](https://thenounproject.com/for-mac/)
 
