@@ -44,7 +44,9 @@
 
 ## Icons
 * [Icon Strike](https://www.flinto.com/strike) (iOS)
-* [How-To Geek](https://www.howtogeek.com/196087/how-to-add-websites-to-the-home-screen-on-any-smartphone-or-tablet/) (Andriod)
+* [How-To Geek](https://www.howtogeek.com/196087/how-to-add-websites-to-the-home-screen-on-any-smartphone-or-tablet/) (Android)
+* [Prepo](https://wearemothership.com/work/prepo/) (iOS)
+* [Mira](http://mirapp.io/) (Android)
 
 ## Tutorials
 ### Sketch  
