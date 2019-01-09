@@ -7,7 +7,7 @@
 
 ### Example
 * Organization name: currencyconverters
-* Billing email: travis@movestheneedle.com
+* Billing email: travis@l4m.co
 
 ## Create web site
 * [Github Pages](https://pages.github.com/)
