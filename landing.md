@@ -13,6 +13,7 @@
 * [Github Pages](https://pages.github.com/)
 
 1. Create a repository
+
 Head over to [GitHub](https://github.com/) and [create a new repository](https://github.com/new) named *username*.github.io, where *username* is your username (or organization name) on GitHub.
 ### Example
 * Repository name: currencyconverters.github.io
