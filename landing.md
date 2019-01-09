@@ -19,6 +19,7 @@ Head over to [GitHub](https://github.com/) and [create a new repository](https:/
 * Repository name: currencyconverters.github.io
 
 2. Clone the repository
+
 Go to the folder where you want to store your project, and clone the new repository:
 
 ```
@@ -33,6 +34,7 @@ git clone https://github.com/currencyconverters/currencyconverters.github.io.git
 ```
 
 3. Hello World
+
 Enter the project folder and add an index.md file:
 
 ```
@@ -42,6 +44,7 @@ echo "#Hello World" > index.md
 ```
 
 4. Push it
+
 Add, commit, and push your changes:
 
 ```
